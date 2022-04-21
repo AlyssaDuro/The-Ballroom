@@ -22,3 +22,22 @@ Updates:
 Dialogue Options and Choices are somewhat working. 
 Text is a bit botched and needs patching... (Some choices will lock up the game due to a discrepancy in the scripting)
 Buttons ARE working though.
+
+Credits:
+
+Created by Alyssa Duro
+Music- Katryna Duro 
+Background Artist- Christine Luk
+
+Special Thanks to:
+
+Lorelei Pepi
+Thomas Brush
+Shinjingi
+Christopher Strickler
+Gil Goletski
+The class of 2DAN 310 S031
+( And all those Unity tutorials on YouTube, whom without, this would have literally not been possible. )
+
+
+
